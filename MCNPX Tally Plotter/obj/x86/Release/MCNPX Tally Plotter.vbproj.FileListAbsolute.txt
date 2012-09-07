@@ -1,0 +1,12 @@
+C:\Users\Eric\documents\visual studio 2010\Projects\MCNPX Tally Plotter\MCNPX Tally Plotter\bin\Release\MCNPX Tally Plotter.exe
+C:\Users\Eric\documents\visual studio 2010\Projects\MCNPX Tally Plotter\MCNPX Tally Plotter\bin\Release\MCNPX Tally Plotter.pdb
+C:\Users\Eric\documents\visual studio 2010\Projects\MCNPX Tally Plotter\MCNPX Tally Plotter\bin\Release\MCNPX Tally Plotter.xml
+C:\Users\Eric\documents\visual studio 2010\Projects\MCNPX Tally Plotter\MCNPX Tally Plotter\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Eric\documents\visual studio 2010\Projects\MCNPX Tally Plotter\MCNPX Tally Plotter\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Eric\documents\visual studio 2010\Projects\MCNPX Tally Plotter\MCNPX Tally Plotter\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Eric\documents\visual studio 2010\Projects\MCNPX Tally Plotter\MCNPX Tally Plotter\obj\x86\Release\MCNPX Tally Plotter.exe
+C:\Users\Eric\documents\visual studio 2010\Projects\MCNPX Tally Plotter\MCNPX Tally Plotter\obj\x86\Release\MCNPX Tally Plotter.xml
+C:\Users\Eric\documents\visual studio 2010\Projects\MCNPX Tally Plotter\MCNPX Tally Plotter\obj\x86\Release\MCNPX Tally Plotter.pdb
+C:\Users\Eric\documents\visual studio 2010\Projects\MCNPX Tally Plotter\MCNPX Tally Plotter\obj\x86\Release\TalPlot.PlotterForm.resources
+C:\Users\Eric\documents\visual studio 2010\Projects\MCNPX Tally Plotter\MCNPX Tally Plotter\obj\x86\Release\TalPlot.Resources.resources
+C:\Users\Eric\Documents\Visual Studio 2010\Projects\MCNPX Tally Plotter\MCNPX Tally Plotter\obj\x86\Release\TalPlot.About.resources
